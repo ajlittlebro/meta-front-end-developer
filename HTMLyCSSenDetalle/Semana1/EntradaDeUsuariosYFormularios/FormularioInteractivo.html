@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <form action="" method="post">
+        <div>
+            <label for="date">Booking Date</label>
+            <input type="date" id="date" name="date">
+        </div>
+        <div>
+            <label for="people">Number of people</label>
+            <input type="range" id="people" name="people" min="1" max="10" value="4"
+                oninput="this.nextElementSibling.value=this.value;">
+            <output>4</output>
+        </div>
+        <div>
+            <label for="location">Location</label>
+            <input id="location" name="location" list="locations">
+            <datalist id="locations">
+                <option value="Downtown">
+                <option value="Uptown">
+        </div>
+
+        <button type="submit">Book Table</button>
+    </form>
+
+</body>
+
+</html>
