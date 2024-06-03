@@ -1,0 +1,3 @@
+Con sede en Tuscon, Arizona, Lucky Shrub es una empresa mediana de diseño de jardines especializada en el diseño y creación de jardines, mantenimiento y paisajismo. La empresa también lleva a cabo una pequeña guardería de plantas que vende plantas de interior y exterior, lo que los convierte en un oasis de orgullo".
+
+Lucky Shrub fue fundada por un matrimonio, Jason y Maria, que comparten desde hace tiempo su amor por las plantas. Jason es el arquitecto de jardines. Crea y supervisa todos los diseños mientras gestiona su equipo de paisajistas. María gestiona todo el marketing de la empresa y supervisa el vivero.
